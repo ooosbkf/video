@@ -1,4 +1,4 @@
-# video
+# TurtleCoin Video Interviews
 Videos from the TurtleCoin community
 
 To add a video add an li with the youtube video id. 
