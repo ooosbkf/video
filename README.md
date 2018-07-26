@@ -12,5 +12,5 @@ Example:
      <div class="desc">Crypto Influence Award 2018: Turtlecoin (Discord) Wins Best Discord/Telegram</div>
    </a>
 </li>
-  ``
+  ```
                       
