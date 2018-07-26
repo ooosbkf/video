@@ -1,5 +1,7 @@
 # TurtleCoin Video Interviews
 Videos from the TurtleCoin community
+https://turtlecoin.github.io/video/
+
 
 To add a video add an li with the youtube video id. 
 
